@@ -17,9 +17,9 @@ order_id | customer_id |order_date | order_amount
 #### Result
 order_date|new_customer|repeat_customer
 ---|---|---|
-01-01-2022	3	0
-02-01-2022	2	1
-03-01-2022	1	2
+01-01-2022|	3|	0
+02-01-2022|	2|	1
+03-01-2022|	1|	2
 
 * For 01-01-2022, there are 3 new customers 100, 200, 300 and repeat customers are 0.
 * For 02-01-2022, there are 2 new customers 400, 500 and 1 repeat customers 100.
